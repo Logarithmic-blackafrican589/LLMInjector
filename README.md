@@ -247,12 +247,14 @@ Prompts are fetched from **[Awesome GPT Super Prompting](https://github.com/Cybe
 
 ---
 
-## ֎ Potential LLM Endpoint Detected [3]
+## ֎ Potential LLM Endpoint Detected
 <img width="1150" height="1146" alt="image" src="https://github.com/user-attachments/assets/21ba512d-fc80-4f09-9c33-d64e59046fcb" />
 
 ## 🛡️ Detection Patterns (defaults)
 
-The extension searches response bodies for these patterns to classify findings:
+<img width="1098" height="1310" alt="image" src="https://github.com/user-attachments/assets/47d03fb9-b582-4594-9d81-654dce2d29ef" />
+
+The extension searches response bodies for these patterns to classify findings and creates issue if enabled in config:
 
 ```
 i am now (in )?dan

@@ -247,6 +247,9 @@ Prompts are fetched from **[Awesome GPT Super Prompting](https://github.com/Cybe
 
 ---
 
+## ֎ Potential LLM Endpoint Detected [3]
+<img width="1150" height="1146" alt="image" src="https://github.com/user-attachments/assets/21ba512d-fc80-4f09-9c33-d64e59046fcb" />
+
 ## 🛡️ Detection Patterns (defaults)
 
 The extension searches response bodies for these patterns to classify findings:

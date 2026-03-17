@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="3326" height="1728" alt="image" src="https://github.com/user-attachments/assets/a6a217c3-2131-463d-b7b5-e2dc8c221be9" />
+<!--<img width="3326" height="1728" alt="image" src="https://github.com/user-attachments/assets/a6a217c3-2131-463d-b7b5-e2dc8c221be9" />-->
+<img width="2550" height="1258" alt="image" src="https://github.com/user-attachments/assets/7f7e62b8-4f20-4a0e-aa1f-30ee388d8017" />
 
 # 🤖 LLM Injector
 
@@ -11,6 +12,7 @@
 [![Jython](https://img.shields.io/badge/Jython-2.7-blue?style=flat-square)](https://www.jython.org/)
 [![License](https://img.shields.io/badge/license-MIT-purple?style=flat-square)](LICENSE)
 [![Prompts](https://img.shields.io/badge/Prompts-CyberAlbSecOP-red?style=flat-square)](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting)
+[![Prompts](https://img.shields.io/badge/elder-plinius?style=flat-square)](https://github.com/elder-plinius/CL4R1T4S)
 
 <br/>
 
@@ -426,7 +428,7 @@ Supports OpenAI delta format, Anthropic text format, and raw `data:` values.
 
 ## 📦 Prompt Sources
 
-Prompts are fetched from **[Awesome GPT Super Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting)** by CyberAlbSecOP.
+Prompts are fetched from **[Awesome GPT Super Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting)** by CyberAlbSecOP and **[CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S)** by Pliny
 
 | Category | Description |
 |---|---|
@@ -581,6 +583,7 @@ In v4, this finding would also appear in the **Tokens/Secrets** tab under `Syste
 | Credit | Link |
 |---|---|
 | **Prompt Repository** | [CyberAlbSecOP/Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) |
+| **Prompt Repository** | [CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) |
 | **Burp Suite API** | [PortSwigger Extender API](https://portswigger.net/burp/extender/api) |
 
 ---

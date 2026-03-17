@@ -452,7 +452,8 @@ The extension registers a passive scanner check. While you browse normally, any 
 ## 🛡️ Detection Patterns (defaults)
 
 <img width="1426" height="804" alt="image" src="https://github.com/user-attachments/assets/840644c9-9841-400a-9b7e-f46f1773146b" />
-<img width="1486" height="1476" alt="image" src="https://github.com/user-attachments/assets/0fd3a423-3224-448d-a98e-0903d215e723" />
+<img width="1124" height="1260" alt="image" src="https://github.com/user-attachments/assets/f86df4f9-152a-4887-af2d-1627b7179e21" />
+<!--<img width="1486" height="1476" alt="image" src="https://github.com/user-attachments/assets/0fd3a423-3224-448d-a98e-0903d215e723" />-->
 
 The extension searches response bodies for these patterns to classify findings, and creates Burp issues if enabled in Config:
 

